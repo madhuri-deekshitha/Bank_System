@@ -148,15 +148,6 @@ CREATE TABLE bank (
 
 ---
 
-## 📸 Screenshots
-
-### 📝 Application Form Screenshot
-
-![Application Form](C:\Users\madhu\Downloads\Images\Signup1.png)
-
-
----
-
 ## 🙋‍♀️ Developed By
 
 **Madhuri**  
