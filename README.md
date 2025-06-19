@@ -150,8 +150,10 @@ CREATE TABLE bank (
 
 ## 📸 Screenshots
 
-![Login Page](images/Screenshot (164).png)
-![Signup Page](images/signup.png)
+### 📝 Application Form Screenshot
+
+![Application Form](C:\Users\madhu\Downloads\Images\Signup1.png)
+
 
 ---
 
